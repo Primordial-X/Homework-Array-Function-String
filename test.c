@@ -5,7 +5,7 @@
 
 
 /*
-
+*/
 
 // Q1 Sum and Average
 // Accept n integers in an array and display their sum and average.
@@ -949,4 +949,3 @@ int frequency(char str[], char ch){
     return count;
 }
 
-*/
